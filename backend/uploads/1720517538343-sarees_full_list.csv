@@ -1,0 +1,37 @@
+Product Id;Product Handle;Product Title;Product Subtitle;Product Description;Product Status;Product Thumbnail;Product Weight;Product Length;Product Width;Product Height;Product HS Code;Product Origin Country;Product MID Code;Product Material;Product Collection Title;Product Collection Handle;Product Type;Product Tags;Product Discountable;Product External Id;Product Profile Name;Product Profile Type;Variant Id;Variant Title;Variant SKU;Variant Barcode;Variant Inventory Quantity;Variant Allow Backorder;Variant Manage Inventory;Variant Weight;Variant Length;Variant Width;Variant Height;Variant HS Code;Variant Origin Country;Variant MID Code;Variant Material;Price EUR;Price USD;Price INR;Option 1 Name;Option 1 Value
+;banarasi-saree;Banarasi Saree;;A beautiful banarasi saree from its place of origin.;published;;442;;;;;;;;;;Saree;;true;;;;;One Size;;;98;false;true;;;;;;;;2196;1361;2534;Size;Standard
+;chikan-saree;Chikan Saree;;A beautiful chikan saree from its place of origin.;published;;473;;;;;;;;;;Saree;;true;;;;;One Size;;;96;false;true;;;;;;;;5596;10876;9619;Size;Standard
+;phulkari-saree;Phulkari Saree;;A beautiful phulkari saree from its place of origin.;published;;497;;;;;;;;;;Saree;;true;;;;;One Size;;;71;false;true;;;;;;;;1301;11855;1154;Size;Standard
+;bandhani-saree;Bandhani Saree;;A beautiful bandhani saree from its place of origin.;published;;601;;;;;;;;;;Saree;;true;;;;;One Size;;;58;false;true;;;;;;;;5753;8993;7145;Size;Standard
+;leheriya-saree;Leheriya Saree;;A beautiful leheriya saree from its place of origin.;published;;691;;;;;;;;;;Saree;;true;;;;;One Size;;;79;false;true;;;;;;;;9875;4904;3133;Size;Standard
+;kanjeevaram-saree;Kanjeevaram Saree;;A beautiful kanjeevaram saree from its place of origin.;published;;578;;;;;;;;;;Saree;;true;;;;;One Size;;;52;false;true;;;;;;;;4836;7586;1429;Size;Standard
+;mysore-silk-saree;Mysore Silk Saree;;A beautiful mysore silk saree from its place of origin.;published;;397;;;;;;;;;;Saree;;true;;;;;One Size;;;87;false;true;;;;;;;;8564;4315;5181;Size;Standard
+;pochampally-saree;Pochampally Saree;;A beautiful pochampally saree from its place of origin.;published;;480;;;;;;;;;;Saree;;true;;;;;One Size;;;58;false;true;;;;;;;;5453;6011;5742;Size;Standard
+;kasavu-saree;Kasavu Saree;;A beautiful kasavu saree from its place of origin.;published;;337;;;;;;;;;;Saree;;true;;;;;One Size;;;53;false;true;;;;;;;;1499;7691;9881;Size;Standard
+;chettinad-cotton-saree;Chettinad Cotton Saree;;A beautiful chettinad cotton saree from its place of origin.;published;;485;;;;;;;;;;Saree;;true;;;;;One Size;;;52;false;true;;;;;;;;6585;1887;4343;Size;Standard
+;tant-saree;Tant Saree;;A beautiful tant saree from its place of origin.;published;;380;;;;;;;;;;Saree;;true;;;;;One Size;;;100;false;true;;;;;;;;3564;8374;7229;Size;Standard
+;baluchari-saree;Baluchari Saree;;A beautiful baluchari saree from its place of origin.;published;;435;;;;;;;;;;Saree;;true;;;;;One Size;;;61;false;true;;;;;;;;3339;6633;9897;Size;Standard
+;jamdani-saree;Jamdani Saree;;A beautiful jamdani saree from its place of origin.;published;;421;;;;;;;;;;Saree;;true;;;;;One Size;;;63;false;true;;;;;;;;8127;6798;4432;Size;Standard
+;sambalpuri-saree;Sambalpuri Saree;;A beautiful sambalpuri saree from its place of origin.;published;;554;;;;;;;;;;Saree;;true;;;;;One Size;;;76;false;true;;;;;;;;2986;5717;6449;Size;Standard
+;bomkai-saree;Bomkai Saree;;A beautiful bomkai saree from its place of origin.;published;;668;;;;;;;;;;Saree;;true;;;;;One Size;;;99;false;true;;;;;;;;7875;9712;9118;Size;Standard
+;paithani-saree;Paithani Saree;;A beautiful paithani saree from its place of origin.;published;;321;;;;;;;;;;Saree;;true;;;;;One Size;;;79;false;true;;;;;;;;2165;4691;9035;Size;Standard
+;nauvari-saree;Nauvari Saree;;A beautiful nauvari saree from its place of origin.;published;;598;;;;;;;;;;Saree;;true;;;;;One Size;;;83;false;true;;;;;;;;2194;11437;2320;Size;Standard
+;chanderi-saree;Chanderi Saree;;A beautiful chanderi saree from its place of origin.;published;;677;;;;;;;;;;Saree;;true;;;;;One Size;;;84;false;true;;;;;;;;7704;6847;9540;Size;Standard
+;maheshwari-saree;Maheshwari Saree;;A beautiful maheshwari saree from its place of origin.;published;;599;;;;;;;;;;Saree;;true;;;;;One Size;;;71;false;true;;;;;;;;4934;2557;2472;Size;Standard
+;patola-saree;Patola Saree;;A beautiful patola saree from its place of origin.;published;;348;;;;;;;;;;Saree;;true;;;;;One Size;;;61;false;true;;;;;;;;2622;3894;7465;Size;Standard
+;muga-silk-saree;Muga Silk Saree;;A beautiful muga silk saree from its place of origin.;published;;507;;;;;;;;;;Saree;;true;;;;;One Size;;;89;false;true;;;;;;;;3824;6606;1391;Size;Standard
+;assam-silk-saree;Assam Silk Saree;;A beautiful assam silk saree from its place of origin.;published;;525;;;;;;;;;;Saree;;true;;;;;One Size;;;70;false;true;;;;;;;;9552;2430;7236;Size;Standard
+;chattisgarh-silk-saree;Chattisgarh Silk Saree;;A beautiful chattisgarh silk saree from its place of origin.;published;;331;;;;;;;;;;Saree;;true;;;;;One Size;;;53;false;true;;;;;;;;3806;5527;1118;Size;Standard
+;bagh-print-saree;Bagh Print Saree;;A beautiful bagh print saree from its place of origin.;published;;610;;;;;;;;;;Saree;;true;;;;;One Size;;;77;false;true;;;;;;;;9450;1491;6141;Size;Standard
+;gadwal-saree;Gadwal Saree;;A beautiful gadwal saree from its place of origin.;published;;674;;;;;;;;;;Saree;;true;;;;;One Size;;;67;false;true;;;;;;;;8940;3058;4884;Size;Standard
+;dhakai-saree;Dhakai Saree;;A beautiful dhakai saree from its place of origin.;published;;614;;;;;;;;;;Saree;;true;;;;;One Size;;;98;false;true;;;;;;;;6547;2884;6855;Size;Standard
+;venkatagiri-saree;Venkatagiri Saree;;A beautiful venkatagiri saree from its place of origin.;published;;393;;;;;;;;;;Saree;;true;;;;;One Size;;;75;false;true;;;;;;;;5861;5128;8878;Size;Standard
+;ikat-saree;Ikat Saree;;A beautiful ikat saree from its place of origin.;published;;627;;;;;;;;;;Saree;;true;;;;;One Size;;;83;false;true;;;;;;;;5256;2491;9698;Size;Standard
+;gota-patti-saree;Gota Patti Saree;;A beautiful gota patti saree from its place of origin.;published;;541;;;;;;;;;;Saree;;true;;;;;One Size;;;95;false;true;;;;;;;;6894;10448;8427;Size;Standard
+;kota-doria-saree;Kota Doria Saree;;A beautiful kota doria saree from its place of origin.;published;;559;;;;;;;;;;Saree;;true;;;;;One Size;;;60;false;true;;;;;;;;4784;10901;2335;Size;Standard
+;bhagalpuri-silk-saree;Bhagalpuri Silk Saree;;A beautiful bhagalpuri silk saree from its place of origin.;published;;366;;;;;;;;;;Saree;;true;;;;;One Size;;;54;false;true;;;;;;;;3632;2953;3268;Size;Standard
+;tussar-silk-saree;Tussar Silk Saree;;A beautiful tussar silk saree from its place of origin.;published;;647;;;;;;;;;;Saree;;true;;;;;One Size;;;77;false;true;;;;;;;;5733;1801;9866;Size;Standard
+;kantha-saree;Kantha Saree;;A beautiful kantha saree from its place of origin.;published;;579;;;;;;;;;;Saree;;true;;;;;One Size;;;92;false;true;;;;;;;;5819;7374;7713;Size;Standard
+;chinnalapattu-saree;Chinnalapattu Saree;;A beautiful chinnalapattu saree from its place of origin.;published;;627;;;;;;;;;;Saree;;true;;;;;One Size;;;99;false;true;;;;;;;;5795;2086;6526;Size;Standard
+;ilkal-saree;Ilkal Saree;;A beautiful ilkal saree from its place of origin.;published;;312;;;;;;;;;;Saree;;true;;;;;One Size;;;64;false;true;;;;;;;;6865;2093;8104;Size;Standard
+;kalamkari-saree;Kalamkari Saree;;A beautiful kalamkari saree from its place of origin.;published;;422;;;;;;;;;;Saree;;true;;;;;One Size;;;88;false;true;;;;;;;;2334;10244;4585;Size;Standard
